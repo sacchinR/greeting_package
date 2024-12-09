@@ -1,5 +1,11 @@
 # @sacchin-r/greeting-package
 
+## 2.0.0-alpha.1
+
+### Major Changes
+
+- 810c1d5: Added Grumpy to the monarch cats
+
 ## 2.0.0-alpha.0
 
 ### Major Changes
