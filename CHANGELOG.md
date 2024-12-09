@@ -1,5 +1,13 @@
 # @sacchin-r/greeting-package
 
+## 2.0.0
+
+### Major Changes
+
+- 810c1d5: Added Grumpy to the monarch cats
+- 7bf77ae: Created a monarch cats morning greet
+- dfd6e30: upgraded to beta version
+
 ## 2.0.0-beta.2
 
 ### Major Changes
