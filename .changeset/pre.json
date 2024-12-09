@@ -1,0 +1,12 @@
+{
+  "mode": "exit",
+  "tag": "beta",
+  "initialVersions": {
+    "@sacchin-r/greeting-package": "1.2.1"
+  },
+  "changesets": [
+    "chilly-apes-march",
+    "proud-ladybugs-fly",
+    "slimy-readers-visit"
+  ]
+}
