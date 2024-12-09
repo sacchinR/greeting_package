@@ -4,5 +4,7 @@
   "initialVersions": {
     "@sacchin-r/greeting-package": "1.2.1"
   },
-  "changesets": []
+  "changesets": [
+    "proud-ladybugs-fly"
+  ]
 }
