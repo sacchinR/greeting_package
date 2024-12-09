@@ -1,5 +1,11 @@
 # @sacchin-r/greeting-package
 
+## 2.0.0-beta.2
+
+### Major Changes
+
+- dfd6e30: upgraded to beta version
+
 ## 2.0.0-alpha.1
 
 ### Major Changes
